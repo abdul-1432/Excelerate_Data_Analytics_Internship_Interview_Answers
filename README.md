@@ -27,7 +27,7 @@ During the Excelerate Data Analytics Internship, the work process is organized i
    - In the second week, interns focus on data analysis and visualization. This phase involves data collection, data cleaning, exploratory data analysis, and creating visualizations to gain insights from the data.
 
 3. **Week 3: Presentation Preparation**
-   - The third week is dedicated to preparing presentations. Interns work on crafting clear and compelling presentations that effectively communicate their findings and proposed solutions to the data analysis problem.
+   - The third week is dedicated to preparing presentations. Interns work on crafting clear and compelling presentations that effectively communicate their findings and propose solutions to the data analysis problem.
 
 4. **Week 4: Conclusion and Decision**
    - In the final week, interns conclude their data analysis projects and present their findings and proposed solutions to the team. This phase involves making data-driven recommendations and decisions based on the analysis conducted during the internship.
