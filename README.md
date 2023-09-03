@@ -5,11 +5,10 @@ Welcome to the Excelerate Data Analytics Internship Interview Answers repository
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Interview Questions](#interview-questions)
-3. [Work Experience](#work-experience)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+2. [Work Experience](#work-experience)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Introduction
 
